@@ -7,8 +7,9 @@ class Program
         while (true)
         {
             Console.WriteLine("1. Grade Calculator");
-            Console.WriteLine("2. Exit");
-            Console.Write("Choose an option (1-2): ");
+            Console.WriteLine("2. Ticket Price Calculator");
+            Console.WriteLine("3. Exit");
+            Console.Write("Choose an option (1-3): ");
 
             string input = Console.ReadLine();
 
@@ -18,6 +19,9 @@ class Program
                     GradeCalculator.Run();
                     break;
                 case "2":
+                    TicketCalculator.Run();
+                    break;
+                case "3":
                     Console.WriteLine("Exiting... Peace out ✌🏾");
                     return;
                 default:
