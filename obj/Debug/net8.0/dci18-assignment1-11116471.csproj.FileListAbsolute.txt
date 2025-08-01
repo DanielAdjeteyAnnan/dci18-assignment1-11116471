@@ -1,0 +1,15 @@
+/workspaces/dci18-assignment1-11116471/bin/Debug/net8.0/dci18-assignment1-11116471
+/workspaces/dci18-assignment1-11116471/bin/Debug/net8.0/dci18-assignment1-11116471.deps.json
+/workspaces/dci18-assignment1-11116471/bin/Debug/net8.0/dci18-assignment1-11116471.runtimeconfig.json
+/workspaces/dci18-assignment1-11116471/bin/Debug/net8.0/dci18-assignment1-11116471.dll
+/workspaces/dci18-assignment1-11116471/bin/Debug/net8.0/dci18-assignment1-11116471.pdb
+/workspaces/dci18-assignment1-11116471/obj/Debug/net8.0/dci18-assignment1-11116471.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dci18-assignment1-11116471/obj/Debug/net8.0/dci18-assignment1-11116471.AssemblyInfoInputs.cache
+/workspaces/dci18-assignment1-11116471/obj/Debug/net8.0/dci18-assignment1-11116471.AssemblyInfo.cs
+/workspaces/dci18-assignment1-11116471/obj/Debug/net8.0/dci18-assignment1-11116471.csproj.CoreCompileInputs.cache
+/workspaces/dci18-assignment1-11116471/obj/Debug/net8.0/dci18-assignment1-11116471.sourcelink.json
+/workspaces/dci18-assignment1-11116471/obj/Debug/net8.0/dci18-assignment1-11116471.dll
+/workspaces/dci18-assignment1-11116471/obj/Debug/net8.0/refint/dci18-assignment1-11116471.dll
+/workspaces/dci18-assignment1-11116471/obj/Debug/net8.0/dci18-assignment1-11116471.pdb
+/workspaces/dci18-assignment1-11116471/obj/Debug/net8.0/dci18-assignment1-11116471.genruntimeconfig.cache
+/workspaces/dci18-assignment1-11116471/obj/Debug/net8.0/ref/dci18-assignment1-11116471.dll
